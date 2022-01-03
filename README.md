@@ -17,7 +17,6 @@
 - 📫 Reach me: [Github](https://github.com/siubie), [Instagram](https://www.instagram.com/putraprima/)
 - ⚡️ Fun fact: I'm a just a man who love to code 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siubie&show_icons=true&locale=en&layout=compact" alt="siubie" /></p>
+![Putra Prima A](https://github-readme-stats.vercel.app/api?username=siubie&theme=gruvbox&show_icons=false)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siubie&show_icons=true&locale=en" alt="siubie" /></p>
-
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=siubie&layout=compact&theme=gruvbox)
