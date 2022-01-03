@@ -4,13 +4,13 @@
 
 ##### Latest Work
 
-- 💻 Senior Analyst and QA Intern at [Sevima](https://sevima.com/)
+- 💻 Senior QA and Analyst Intern at [Sevima](https://sevima.com/)
 - ✨ Crafted [Online Accreditation Systems For Universitas Tadulako](https://mutual-lppmp.untad.ac.id/index.php/login);
 - 🔥 The Mastermind Behind  [Dendrite (Medical Entrepreneurship and Creativity Competition) Website](dendrite-pskedfkub.com/) 
 - 🔍 Researcher at [Learning Engineering Technology Lab Polinema](http://let.polinema.ac.id/) 
 ##### BIO
 
-- 🏢 I'm currently working as lecturer at **Politeknik Negeri Malang**
+- 🏢 I'm currently working as lecturer at [**Politeknik Negeri Malang**](jti.polinema.ac.id/)
 - ⚙️  Daily Code Stack: `.php`, `.js`, `.html`, `.css`, `dart` 
 - 📼 Actively Creating Video Tutorial at [Dosen Ngoding](https://www.youtube.com/c/DosenNgoding) 
 - 🦸🏽‍♂️ Saving Developer Live One Answer at a Time on [StackOverflow](https://stackoverflow.com/users/14545629/putra-prima-a) 
