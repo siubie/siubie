@@ -10,7 +10,7 @@
 - 🔍 Researcher at [Learning Engineering Technology Lab Polinema](http://let.polinema.ac.id/) 
 
 #### Portfolio Details
-- ⌨️ Checkout [My Detailed Portfolio](https://github.com/siubie/portfolio.md) 
+- ⌨️ Checkout [My Detailed Portfolio](https://github.com/siubie/siubie/blob/main/portfolio.md) 
 
 ##### BIO
 
