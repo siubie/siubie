@@ -1,18 +1,18 @@
-### Hai there 👋
+# Hai there 👋
 
-#### I'm a Laravel Developer and Cypress Enthusiast Working From Malang, Indonesia 🇮🇩
+## I'm a Laravel Developer and Cypress Enthusiast Working From Malang, Indonesia 🇮🇩
 
-##### Latest Work
+### Latest Work
 
 - 💻 Senior QA and Analyst Intern at [Sevima](https://sevima.com/)
 - ✨ Crafted [Online Accreditation Systems For Universitas Tadulako](https://mutual-lppmp.untad.ac.id/index.php/login);
 - 🔥 The Mastermind Behind  [Dendrite (Medical Entrepreneurship and Creativity Competition) Website](dendrite-pskedfkub.com/) 
 - 🔍 Researcher at [Learning Engineering Technology Lab Polinema](http://let.polinema.ac.id/) 
 
-#### Portfolio Details
+### Portfolio Details
 - ⌨️ Checkout [My Detailed Portfolio](https://github.com/siubie/siubie/blob/main/portfolio.md) 
 
-##### BIO
+### BIO
 
 - 🏢 I'm currently working as lecturer at [**Politeknik Negeri Malang**](jti.polinema.ac.id/)
 - ⚙️  Daily Code Stack: `.php`, `.js`, `.html`, `.css`, `dart` 
