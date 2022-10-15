@@ -10,6 +10,7 @@
 - 🔥 The Mastermind Behind  [Dendrite Website](dendrite-pskedfkub.com/) | [More Details](dendrite.md)
 - 🏹  Maintainer of  [Laravel Starter Stisla](http://starter.putraprima.id/) | [More Details](https://github.com/siubie/laravel-starter-stisla)
 - 🔍 Researcher at [Learning Engineering Technology Lab Polinema](http://let.polinema.ac.id/) 
+- Writing Open Source Books in Programming 
 
 ### Portfolio Details
 - ⌨️ Checkout [My Detailed Portfolio](https://github.com/siubie/siubie/blob/main/portfolio.md) 
