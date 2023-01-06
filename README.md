@@ -5,7 +5,7 @@
 ### Latest Work
 
 
-- 💻 Senior QA and Analyst Intern at [Sevima](https://sevima.com/) | [Check My Improvement There](sevima.md)
+- 💻 Quality Assurance Manager at [Sevima](https://sevima.com/) | [Check My Improvement There](sevima.md)
 - ✨ Crafted [Online Accreditation Systems For Universitas Tadulako](https://mutual-lppmp.untad.ac.id/index.php/login) | [More Details](lppmp.md)
 - 🔥 The Mastermind Behind  [Dendrite Website](dendrite-pskedfkub.com/) | [More Details](dendrite.md)
 - 🏹  Maintainer of  [Laravel Starter Stisla](http://starter.putraprima.id/) | [More Details](https://github.com/siubie/laravel-starter-stisla)
